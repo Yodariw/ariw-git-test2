@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Hello ariw git test2 </h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, non.</p>
+    <p>Lorem ipsugitm dolor sit amet consectetur adipisicing elit. Beatae, non.</p>
     <ul>
         <p>add new list</p>
         <li>satu</li>
